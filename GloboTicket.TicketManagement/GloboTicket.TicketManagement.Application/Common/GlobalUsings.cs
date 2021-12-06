@@ -8,5 +8,5 @@ global using MediatR;
 global using GloboTicket.TicketManagement.Application.Contracts.Persistence;
 global using AutoMapper;
 global using GloboTicket.TicketManagement.Application.Features.Events;
-using Microsoft.Extensions.DependencyInjection;
-using System.Reflection;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Reflection;
