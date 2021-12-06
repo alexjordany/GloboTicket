@@ -2,7 +2,7 @@
 
 public class Category : AuditableEntity
 {
-    public Guid Id { get; set; }
+    public Guid CategoryId { get; set; }
     public string Name { get; set; } 
-    public ICollection <Event> Events { get; set; }
+    public ICollection<Event> Events { get; set; }
 }
