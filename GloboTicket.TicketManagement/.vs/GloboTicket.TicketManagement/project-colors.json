@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6f3a1bf-303a-45b8-9f82-c134ee985199": {
+      "ProjectGuid": "e6f3a1bf-303a-45b8-9f82-c134ee985199",
+      "DisplayName": "GloboTicket.TicketManagement.Domain",
+      "ColorIndex": 0
+    },
+    "ac215bb6-71df-4666-8104-a77b818647ae": {
+      "ProjectGuid": "ac215bb6-71df-4666-8104-a77b818647ae",
+      "DisplayName": "GloboTicket.TicketManagement.Application",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
