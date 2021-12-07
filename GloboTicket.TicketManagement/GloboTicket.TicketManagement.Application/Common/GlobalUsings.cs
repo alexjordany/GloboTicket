@@ -10,3 +10,6 @@ global using AutoMapper;
 global using GloboTicket.TicketManagement.Application.Features.Events;
 global using Microsoft.Extensions.DependencyInjection;
 global using System.Reflection;
+global using FluentValidation;
+global using FluentValidation.Results;
+global using GloboTicket.TicketManagement.Application.Responses;
