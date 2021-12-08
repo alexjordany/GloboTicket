@@ -11,6 +11,7 @@
           "GloboTicket.TicketManagement.Application": "1.0.0",
           "GloboTicket.TicketManagement.Infrastructure": "1.0.0",
           "GloboTicket.TicketManagement.Persistence": "1.0.0",
+          "MediatR": "9.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },

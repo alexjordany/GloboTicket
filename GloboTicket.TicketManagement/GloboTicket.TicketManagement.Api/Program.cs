@@ -1,6 +1,3 @@
-using GloboTicket.TicketManagement.Application;
-using GloboTicket.TicketManagement.Infrastructure;
-using GloboTicket.TicketManagement.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 IConfiguration configuration = builder.Configuration;
