@@ -13,3 +13,5 @@ global using System.Reflection;
 global using FluentValidation;
 global using FluentValidation.Results;
 global using GloboTicket.TicketManagement.Application.Responses;
+global using GloboTicket.TicketManagement.Application.Models.Mail;
+global using GloboTicket.TicketManagement.Application.Contracts.Infrastructure;
