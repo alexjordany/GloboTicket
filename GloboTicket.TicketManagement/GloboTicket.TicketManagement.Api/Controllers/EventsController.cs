@@ -1,4 +1,6 @@
-﻿namespace GloboTicket.TicketManagement.Api.Controllers;
+﻿
+
+namespace GloboTicket.TicketManagement.Api.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -53,5 +55,12 @@ public class EventsController : Controller
         var deleteEventCommand = new DeleteEventCommand() { EventId = id };
         await _mediator.Send(deleteEventCommand);
         return NoContent();
+    }
+
+    [HttpGet("export",Name ="ExportEvents")]
+    public async Task<FileResult> ExportEvents()
+    {
+        var fileDto = await _mediator.Send(new GetEventsExportQuery());
+        return File(fileDto.Data, fileDto.ContentType, fileDto.EventExportFileName);
     }
 }

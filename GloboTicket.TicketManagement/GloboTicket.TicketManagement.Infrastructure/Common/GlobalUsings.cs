@@ -6,3 +6,6 @@ global using SendGrid.Helpers.Mail;
 global using GloboTicket.TicketManagement.Infrastructure.Mail;
 global using Microsoft.Extensions.Configuration;
 global using Microsoft.Extensions.DependencyInjection;
+global using GloboTicket.TicketManagement.Application.Features.Events.Queries.GetEventsExport;
+global using CsvHelper;
+global using GloboTicket.TicketManagement.Infrastructure.FileExport;

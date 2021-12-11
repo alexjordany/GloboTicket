@@ -8,6 +8,8 @@ public static class InfrastructureServiceRegistration
 
         services.AddTransient<IEmailService, EmailService>();
 
+        services.AddTransient<ICsvExporter, CsvExporter>();
+
         return services;
     }
 }

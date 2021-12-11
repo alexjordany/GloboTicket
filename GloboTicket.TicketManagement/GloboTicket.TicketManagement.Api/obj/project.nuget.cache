@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Afj5oEewPXoUXTQYNOg4lcyZqTYfHM+Flg/AGihBrRs5xxvZY37CR3AxIr6JT1RvuxV5LZksg7R3DugIJBd7Vg==",
+  "dgSpecHash": "hTgIKb4JHioSxjMG2Id4bpen9oRZVOr+oLjbBDo2gFtx4MOi6Ate/kknkdjWdJpmVdRPWBieXTf3+YRJoFCSyw==",
   "success": true,
   "projectFilePath": "C:\\Users\\alexj\\source\\repos\\GloboTicket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Api\\GloboTicket.TicketManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexj\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.5\\fluentvalidation.dependencyinjectionextensions.10.3.5.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
