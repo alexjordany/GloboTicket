@@ -1,10 +1,12 @@
-﻿namespace GloboTicket.TicketManagement.API.IntegrationTests.Controllers;
+﻿using Microsoft.VisualStudio.TestPlatform.TestHost;
 
-public class CategoryControllerTests : IClassFixture<CustomWebApplicationFactory<IStartup>>
+namespace GloboTicket.TicketManagement.API.IntegrationTests.Controllers;
+
+public class CategoryControllerTests : IClassFixture<CustomWebApplicationFactory<Program>>
 {
-    private readonly CustomWebApplicationFactory<IStartup> _factory;
+    private readonly CustomWebApplicationFactory<Program> _factory;
 
-    public CategoryControllerTests(CustomWebApplicationFactory<IStartup> factory)
+    public CategoryControllerTests(CustomWebApplicationFactory<Program> factory)
     {
         _factory = factory;
     }

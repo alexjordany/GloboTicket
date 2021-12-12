@@ -30,7 +30,22 @@
       "ProjectGuid": "0031fa5b-dacc-43a2-9124-1b920210bced",
       "DisplayName": "GloboTicket.TicketManagement.Api",
       "ColorIndex": 4
+    },
+    "fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73": {
+      "ProjectGuid": "fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73",
+      "DisplayName": "GloboTicket.TicketManagement.Application.UnitTest",
+      "ColorIndex": 5
+    },
+    "468a5397-7fda-4282-9b5d-128e2179603e": {
+      "ProjectGuid": "468a5397-7fda-4282-9b5d-128e2179603e",
+      "DisplayName": "GloboTicket.TicketManagement.Persistence.IntegrationTests",
+      "ColorIndex": 6
+    },
+    "110c1790-a09c-4091-a1e4-7408b481b568": {
+      "ProjectGuid": "110c1790-a09c-4091-a1e4-7408b481b568",
+      "DisplayName": "GloboTicket.TicketManagement.API.IntegrationTests",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }
