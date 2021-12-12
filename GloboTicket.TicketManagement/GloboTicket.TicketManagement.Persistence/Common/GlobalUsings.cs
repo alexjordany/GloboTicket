@@ -6,3 +6,4 @@ global using GloboTicket.TicketManagement.Application.Contracts.Persistence;
 global using Microsoft.Extensions.DependencyInjection;
 global using Microsoft.Extensions.Configuration;
 global using GloboTicket.TicketManagement.Persistence.Repositories;
+global using GloboTicket.TicketManagement.Application.Contracts;
