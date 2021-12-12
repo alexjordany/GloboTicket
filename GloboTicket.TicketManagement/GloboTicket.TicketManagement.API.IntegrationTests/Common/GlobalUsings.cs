@@ -1,0 +1,16 @@
+﻿global using GloboTicket.TicketManagement.Api;
+global using GloboTicket.TicketManagement.API.IntegrationTests.Base;
+global using GloboTicket.TicketManagement.Application.Features.Categories.Queries.GetCategoriesList;
+global using Newtonsoft.Json;
+global using System.Collections.Generic;
+global using System.Threading.Tasks;
+global using Xunit;
+global using GloboTicket.TicketManagement.Persistence;
+global using Microsoft.AspNetCore.Hosting;
+global using Microsoft.AspNetCore.Mvc.Testing;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Logging;
+global using System;
+global using System.Net.Http;
+global using GloboTicket.TicketManagement.Domain.Entities;
