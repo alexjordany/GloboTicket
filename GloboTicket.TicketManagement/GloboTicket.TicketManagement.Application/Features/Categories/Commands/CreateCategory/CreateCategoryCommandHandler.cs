@@ -33,6 +33,7 @@ public class CreateCategoryCommandHandler : IRequestHandler<CreateCategoryComman
             category = await _categoryRepository.AddAsync(category);
             createCategoryCommandResponse.Category = _mapper.Map<CreateCategoryDto>(category);
         }
+
         return createCategoryCommandResponse;
     }
 }

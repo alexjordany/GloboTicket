@@ -1,0 +1,14 @@
+﻿global using AutoMapper;
+global using Moq;
+global using GloboTicket.TicketManagement.Application.Contracts.Persistence;
+global using GloboTicket.TicketManagement.Domain.Entities;
+global using System;
+global using System.Collections.Generic;
+global using GloboTicket.TicketManagement.Application.UnitTest.Mocks;
+global using GloboTicket.TicketManagement.Application.Profiles;
+global using Xunit;
+global using System.Threading.Tasks;
+global using GloboTicket.TicketManagement.Application.Features.Categories.Queries.GetCategoriesList;
+global using System.Threading;
+global using Shouldly;
+global using GloboTicket.TicketManagement.Application.Features.Categories.Commands.CreateCategory;
