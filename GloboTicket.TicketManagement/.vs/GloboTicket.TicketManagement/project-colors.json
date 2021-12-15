@@ -45,7 +45,27 @@
       "ProjectGuid": "110c1790-a09c-4091-a1e4-7408b481b568",
       "DisplayName": "GloboTicket.TicketManagement.API.IntegrationTests",
       "ColorIndex": 7
+    },
+    "cad8face-20a3-4eb4-bb48-43aa59a1571c": {
+      "ProjectGuid": "cad8face-20a3-4eb4-bb48-43aa59a1571c",
+      "DisplayName": "GloboTicket.TicketManagement.App",
+      "ColorIndex": 8
+    },
+    "2a3ed992-51b7-4fe9-bb02-f6bf679fe179": {
+      "ProjectGuid": "2a3ed992-51b7-4fe9-bb02-f6bf679fe179",
+      "DisplayName": "GloboTicket.TicketManagement.App",
+      "ColorIndex": 9
+    },
+    "620923df-beab-4840-a5c3-aecac41d1b1d": {
+      "ProjectGuid": "620923df-beab-4840-a5c3-aecac41d1b1d",
+      "DisplayName": "GloboTicket.TicketManagement.App",
+      "ColorIndex": 10
+    },
+    "dee5d711-5a86-4034-981f-4b75ca22f515": {
+      "ProjectGuid": "dee5d711-5a86-4034-981f-4b75ca22f515",
+      "DisplayName": "BlazorApp1",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 12
 }

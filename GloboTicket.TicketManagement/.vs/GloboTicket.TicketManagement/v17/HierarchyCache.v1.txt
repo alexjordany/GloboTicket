@@ -1,0 +1,760 @@
+﻿++Solución "GloboTicket.TicketManagement" ‎(9 de 9 proyectos)
+++test
+i:{00000000-0000-0000-0000-000000000000}:test
+++GloboTicket.TicketManagement.Application.UnitTest
+i:{f5409673-6372-48e7-8d5d-3174666ff184}:GloboTicket.TicketManagement.Application.UnitTest
+++Dependencias
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:>1429
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:>1428
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:>1430
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:>1564
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:>257
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:>1296
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:>298
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:>1295
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:>2857
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:>3250
+++Categories
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application.unittest\categories\
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\
+++Common
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application.unittest\common\
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence.integrationtests\common\
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api.integrationtests\common\
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\common\
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\common\
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.infrastructure\common\
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.domain\common\
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\common\
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\common\
+++Mocks
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application.unittest\mocks\
+++Analizadores
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:analizadores
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:analizadores
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:analizadores
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:analizadores
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:analizadores
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:analizadores
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:analizadores
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:analizadores
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:analizadores
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:analizadores
+++Marcos de trabajo
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:marcos de trabajo
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:marcos de trabajo
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:marcos de trabajo
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:marcos de trabajo
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:marcos de trabajo
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:marcos de trabajo
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:marcos de trabajo
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:marcos de trabajo
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:marcos de trabajo
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:marcos de trabajo
+++Paquetes
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:paquetes
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:paquetes
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:paquetes
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:paquetes
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:paquetes
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:paquetes
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:paquetes
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:paquetes
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:paquetes
+++Proyectos
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:proyectos
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:proyectos
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:proyectos
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:proyectos
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:proyectos
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:proyectos
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:proyectos
+++Commands
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application.unittest\categories\commands\
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\commands\
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\commands\
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\orders\commands\
+++Queries
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application.unittest\categories\queries\
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\queries\
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\orders\queries\
+++GlobalUsings.cs
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application.unittest\common\globalusings.cs
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence.integrationtests\common\globalusings.cs
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api.integrationtests\common\globalusings.cs
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\common\globalusings.cs
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\common\globalusings.cs
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.infrastructure\common\globalusings.cs
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.domain\common\globalusings.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\common\globalusings.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\common\globalusings.cs
+++RepositoryMocks.cs
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application.unittest\mocks\repositorymocks.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++xunit.analyzers
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\users\alexj\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:c:\users\alexj\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++Microsoft.NETCore.App
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application.unittest\microsoft.netcore.app
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence.integrationtests\microsoft.netcore.app
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api.integrationtests\microsoft.netcore.app
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\microsoft.netcore.app
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\microsoft.netcore.app
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.infrastructure\microsoft.netcore.app
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.domain\microsoft.netcore.app
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\microsoft.netcore.app
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\microsoft.netcore.app
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\microsoft.netcore.app
+++coverlet.collector (3.1.0)
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:>1650
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:>1672
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:>1692
+++Microsoft.NET.Test.Sdk (17.0.0)
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:>1646
+++Moq (4.16.1)
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:>1649
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:>1671
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:>1691
+++Shouldly (4.0.3)
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:>1645
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:>1663
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:>1685
+++xunit (2.4.1)
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:>1647
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:>1665
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:>1688
+++xunit.runner.visualstudio (2.4.3)
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:>1648
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:>1669
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:>1690
+++GloboTicket.TicketManagement.Application
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\bin\debug\net6.0\globoticket.ticketmanagement.application.dll
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\bin\debug\net6.0\globoticket.ticketmanagement.application.dll
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\bin\debug\net6.0\globoticket.ticketmanagement.application.dll
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\bin\debug\net6.0\globoticket.ticketmanagement.application.dll
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\bin\debug\net6.0\globoticket.ticketmanagement.application.dll
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\bin\debug\net6.0\globoticket.ticketmanagement.application.dll
+i:{45e994c4-6337-4e34-811d-29da67aac77d}:GloboTicket.TicketManagement.Application
+++CreateCategoryTests.cs
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application.unittest\categories\commands\createcategorytests.cs
+++GetCategoriesListQueryHandlerTests.cs
+i:{fbe4b5d4-5a4b-47d2-85ae-67652ffe3e73}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application.unittest\categories\queries\getcategorieslistqueryhandlertests.cs
+++GloboTicket.TicketManagement.Persistence.IntegrationTests
+i:{f5409673-6372-48e7-8d5d-3174666ff184}:GloboTicket.TicketManagement.Persistence.IntegrationTests
+++GloboTicketDbContextTests.cs
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence.integrationtests\globoticketdbcontexttests.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:c:\users\alexj\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:c:\users\alexj\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.EntityFrameworkCore.InMemory (6.0.0)
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:>1667
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:>1689
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:>1664
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:>1686
+++GloboTicket.TicketManagement.Persistence
+i:{468a5397-7fda-4282-9b5d-128e2179603e}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\bin\debug\net6.0\globoticket.ticketmanagement.persistence.dll
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\bin\debug\net6.0\globoticket.ticketmanagement.persistence.dll
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\bin\debug\net6.0\globoticket.ticketmanagement.persistence.dll
+i:{64bc9c4a-8cc2-4979-af26-f57159a24521}:GloboTicket.TicketManagement.Persistence
+++GloboTicket.TicketManagement.API.IntegrationTests
+i:{f5409673-6372-48e7-8d5d-3174666ff184}:GloboTicket.TicketManagement.API.IntegrationTests
+++Base
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api.integrationtests\base\
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\services\base\
+++Controllers
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api.integrationtests\controllers\
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\controllers\
+++CustomWebApplicationFactory.cs
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api.integrationtests\base\customwebapplicationfactory.cs
+++Utilities.cs
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api.integrationtests\base\utilities.cs
+++CategoryControllerTests.cs
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api.integrationtests\controllers\categorycontrollertests.cs
+++Microsoft.AspNetCore.App.Analyzers
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Mvc.Testing (6.0.0)
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:>1687
+++GloboTicket.TicketManagement.Api
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\bin\debug\net6.0\globoticket.ticketmanagement.api.dll
+i:{88491cfb-d7d7-48b0-b9d0-b15cea60c1a4}:GloboTicket.TicketManagement.Api
+++GloboTicket.TicketManagement.Domain
+i:{110c1790-a09c-4091-a1e4-7408b481b568}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.domain\bin\debug\net6.0\globoticket.ticketmanagement.domain.dll
+i:{45e994c4-6337-4e34-811d-29da67aac77d}:GloboTicket.TicketManagement.Domain
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.domain\bin\debug\net6.0\globoticket.ticketmanagement.domain.dll
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++API
+i:{886b2f91-0af3-4f3e-aa0a-57b16963b66c}:API
+++Connected Services 
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:>1565
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:>2858
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:>3251
+++Properties
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\properties\
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\properties\
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\properties\
+++Utility
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\utility\
+++appsettings.json
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\appsettings.json
+++Program.cs
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\program.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\program.cs
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\program.cs
+++No se detectaron dependencias de servicio
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:>1566
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:>2859
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:>3252
+++launchSettings.json
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\properties\launchsettings.json
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\properties\launchsettings.json
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\properties\launchsettings.json
+++CategoryController.cs
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\controllers\categorycontroller.cs
+++EventsController.cs
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\controllers\eventscontroller.cs
+++OrderController.cs
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\controllers\ordercontroller.cs
+++FileResultContentTypeAttribute.cs
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\utility\fileresultcontenttypeattribute.cs
+++FileResultContentTypeOperationFilter.cs
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\utility\fileresultcontenttypeoperationfilter.cs
+++appsettings.Development.json
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\.nuget\packages\microsoft.aspnetcore.components.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\.nuget\packages\microsoft.aspnetcore.components.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.api\microsoft.aspnetcore.app
+++MediatR (9.0.0)
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:>1631
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:>1632
+++Swashbuckle.AspNetCore (6.2.3)
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:>1629
+++Swashbuckle.AspNetCore.Swagger (6.2.3)
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:>1630
+++GloboTicket.TicketManagement.Infrastructure
+i:{0031fa5b-dacc-43a2-9124-1b920210bced}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.infrastructure\bin\debug\net6.0\globoticket.ticketmanagement.infrastructure.dll
+i:{64bc9c4a-8cc2-4979-af26-f57159a24521}:GloboTicket.TicketManagement.Infrastructure
+++Infrastructure
+i:{886b2f91-0af3-4f3e-aa0a-57b16963b66c}:Infrastructure
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\contracts\infrastructure\
+++Configurations
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\configurations\
+++Migrations
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\migrations\
+++Repositories
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\repositories\
+++GloboTicketDbContext.cs
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\globoticketdbcontext.cs
+++PersistenceServiceRegistration.cs
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\persistenceserviceregistration.cs
+++EventConfiguration.cs
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\configurations\eventconfiguration.cs
+++20211208040241_InitialMigration.cs
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\migrations\20211208040241_initialmigration.cs
+++GloboTicketDbContextModelSnapshot.cs
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\migrations\globoticketdbcontextmodelsnapshot.cs
+++BaseRepository.cs
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\repositories\baserepository.cs
+++CategoryRepository.cs
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\repositories\categoryrepository.cs
+++EventRepository.cs
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\repositories\eventrepository.cs
+++OrderRepository.cs
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\repositories\orderrepository.cs
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:>1588
+++Microsoft.Extensions.Options.ConfigurationExtensions (6.0.0)
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:>1589
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:>1592
+++20211208040241_InitialMigration.Designer.cs
+i:{31b7e61d-788b-42f2-af2b-5fd653dbff69}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.persistence\migrations\20211208040241_initialmigration.designer.cs
+++FileExport
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.infrastructure\fileexport\
+++Mail
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.infrastructure\mail\
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\models\mail\
+++InfrastructureServiceRegistration.cs
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.infrastructure\infrastructureserviceregistration.cs
+++CsvExporter.cs
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.infrastructure\fileexport\csvexporter.cs
+++EmailService.cs
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.infrastructure\mail\emailservice.cs
+++CsvHelper (27.2.1)
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:>1594
+++SendGrid (9.25.1)
+i:{157526e6-4ee8-47cc-a0ad-af0f2374f659}:>1591
+++Core
+i:{886b2f91-0af3-4f3e-aa0a-57b16963b66c}:Core
+++Entities
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.domain\entities\
+++AuditableEntity.cs
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.domain\common\auditableentity.cs
+++Category.cs
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.domain\entities\category.cs
+++Event.cs
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.domain\entities\event.cs
+++Order.cs
+i:{e6f3a1bf-303a-45b8-9f82-c134ee985199}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.domain\entities\order.cs
+++Contracts
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\contracts\
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\contracts\
+++Exceptions
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\exceptions\
+++Features
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\
+++Models
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\models\
+++Profiles
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\profiles\
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\profiles\
+++Responses
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\responses\
+++ApplicationServiceRegistration.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\applicationserviceregistration.cs
+++Persistence
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\contracts\persistence\
+++ILoggedInUserService.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\contracts\iloggedinuserservice.cs
+++BadRequestException.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\exceptions\badrequestexception.cs
+++NotFoundException.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\exceptions\notfoundexception.cs
+++ValidationException.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\exceptions\validationexception.cs
+++Events
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\
+++Orders
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\orders\
+++MappingProfile.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\profiles\mappingprofile.cs
+++BaseResponse.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\responses\baseresponse.cs
+++AutoMapper (10.1.1)
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:>1608
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:>2876
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.1)
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:>1606
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:>2872
+++FluentValidation (10.3.5)
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:>1607
+++FluentValidation.DependencyInjectionExtensions (10.3.5)
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:>1605
+++MediatR.Extensions.Microsoft.DependencyInjection (9.0.0)
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:>1609
+++ICsvExporter.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\contracts\infrastructure\icsvexporter.cs
+++IEmailService.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\contracts\infrastructure\iemailservice.cs
+++IAsyncRepository.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\contracts\persistence\iasyncrepository.cs
+++ICategoryRepository.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\contracts\persistence\icategoryrepository.cs
+++IEventRepository.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\contracts\persistence\ieventrepository.cs
+++IOrderRepository.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\contracts\persistence\iorderrepository.cs
+++Email.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\models\mail\email.cs
+++EmailSettings.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\models\mail\emailsettings.cs
+++CreateCategory
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\commands\createcategory\
+++GetCategoriesList
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\queries\getcategorieslist\
+++GetCategoriesWithEvents
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\queries\getcategorieswithevents\
+++CreateEvent
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\commands\createevent\
+++DeleteEvent
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\commands\deleteevent\
+++UpdateEvent
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\commands\updateevent\
+++GetEventDetail
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventdetail\
+++GetEventsExport
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventsexport\
+++GetEventsList
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventslist\
+++CreateCategoryCommand.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\commands\createcategory\createcategorycommand.cs
+++CreateCategoryCommandHandler.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\commands\createcategory\createcategorycommandhandler.cs
+++CreateCategoryCommandResponse.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\commands\createcategory\createcategorycommandresponse.cs
+++CreateCategoryCommandValidator.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\commands\createcategory\createcategorycommandvalidator.cs
+++CreateCategoryDto.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\commands\createcategory\createcategorydto.cs
+++CategoryListVm.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\queries\getcategorieslist\categorylistvm.cs
+++GetCategoriesListQuery.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\queries\getcategorieslist\getcategorieslistquery.cs
+++GetCategoriesListQueryHandler.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\queries\getcategorieslist\getcategorieslistqueryhandler.cs
+++CategoryEventDto.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\queries\getcategorieswithevents\categoryeventdto.cs
+++CategoryEventListVm.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\queries\getcategorieswithevents\categoryeventlistvm.cs
+++GetCategoriesListWithEventsQuery.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\queries\getcategorieswithevents\getcategorieslistwitheventsquery.cs
+++GetCategoriesListWithEventsQueryHandler.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\categories\queries\getcategorieswithevents\getcategorieslistwitheventsqueryhandler.cs
+++CreateEventCommand.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\commands\createevent\createeventcommand.cs
+++CreateEventCommandHandler.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\commands\createevent\createeventcommandhandler.cs
+++CreateEventCommandValidator.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\commands\createevent\createeventcommandvalidator.cs
+++DeleteEventCommand.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\commands\deleteevent\deleteeventcommand.cs
+++DeleteEventCommandHandler.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\commands\deleteevent\deleteeventcommandhandler.cs
+++UpdateEventCommand.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\commands\updateevent\updateeventcommand.cs
+++UpdateEventCommandHandler.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\commands\updateevent\updateeventcommandhandler.cs
+++CategoryDto.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventdetail\categorydto.cs
+++EventDetailVm.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventdetail\eventdetailvm.cs
+++GetEventDetailQuery.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventdetail\geteventdetailquery.cs
+++GetEventDetailQueryHandler.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventdetail\geteventdetailqueryhandler.cs
+++EventExportDto.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventsexport\eventexportdto.cs
+++EventExportFileVm.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventsexport\eventexportfilevm.cs
+++GetEventsExportQuery.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventsexport\geteventsexportquery.cs
+++GetEventsExportQueryHandler.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventsexport\geteventsexportqueryhandler.cs
+++EventListVm.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventslist\eventlistvm.cs
+++GetEventsListQuery.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventslist\geteventslistquery.cs
+++GetEventsQueryHandler.cs
+i:{ac215bb6-71df-4666-8104-a77b818647ae}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.application\features\events\queries\geteventslist\geteventsqueryhandler.cs
+++UI
+i:{886b2f91-0af3-4f3e-aa0a-57b16963b66c}:UI
+++GloboTicket.TicketManagement.App
+i:{4e2eb456-2e4c-4068-a8e2-d0018484b8e9}:GloboTicket.TicketManagement.App
+++wwwroot
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\
+++IAuthenticationService.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\contracts\iauthenticationservice.cs
+++ICategoryDataService.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\contracts\icategorydataservice.cs
+++Pages
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\pages\
+++Services
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\services\
+++ServiceClient.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\services\base\serviceclient.cs
+++Shared
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\shared\
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\shared\
+++_Imports.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\_imports.razor
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\_imports.razor
+++App.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\app.razor
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\app.razor
+++css
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\open-iconic\font\css\
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\open-iconic\font\css\
+++sample-data
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\sample-data\
+++favicon.ico
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\favicon.ico
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\favicon.ico
+++icon-192.png
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\icon-192.png
+++index.html
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\index.html
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\index.html
+++Counter.razor
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\pages\counter.razor
+++FetchData.razor
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\pages\fetchdata.razor
+++Index.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\index.razor
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\pages\index.razor
+++MainLayout.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\shared\mainlayout.razor
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\shared\mainlayout.razor
+++NavMenu.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\shared\navmenu.razor
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\shared\navmenu.razor
+++SurveyPrompt.razor
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\shared\surveyprompt.razor
+++ILLink.CodeFixProvider
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\illink.codefixprovider.dll
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\illink.codefixprovider.dll
+++ILLink.RoslynAnalyzer
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\illink.roslynanalyzer.dll
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\illink.roslynanalyzer.dll
+++Blazored.LocalStorage (4.1.5)
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:>2870
+++Microsoft.AspNetCore.Components.Authorization (6.0.0)
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:>2878
+++Microsoft.AspNetCore.Components.WebAssembly (6.0.0)
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:>2871
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:>3279
+++Microsoft.AspNetCore.Components.WebAssembly.DevServer (6.0.0)
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:>2877
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:>3280
+++Microsoft.Extensions.Http (6.0.0)
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:>2874
+++Newtonsoft.Json (13.0.1)
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:>2873
+++System.Net.Http.Json (6.0.0)
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:>2879
+++bootstrap
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\bootstrap\
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\bootstrap\
+++open-iconic
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\open-iconic\
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\open-iconic\
+++app.css
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\app.css
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\app.css
+++weather.json
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\sample-data\weather.json
+++MainLayout.razor.css
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\shared\mainlayout.razor.css
+++NavMenu.razor.css
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\shared\navmenu.razor.css
+++bootstrap.min.css
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\bootstrap\bootstrap.min.css
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\bootstrap\bootstrap.min.css
+++font
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\open-iconic\font\
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\open-iconic\font\
+++FONT-LICENSE
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\open-iconic\font-license
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\open-iconic\font-license
+++ICON-LICENSE
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\open-iconic\icon-license
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\open-iconic\icon-license
+++README.md
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\open-iconic\readme.md
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\open-iconic\readme.md
+++bootstrap.min.css.map
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\bootstrap\bootstrap.min.css.map
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\bootstrap\bootstrap.min.css.map
+++fonts
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\open-iconic\font\fonts\
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\open-iconic\font\fonts\
+++open-iconic-bootstrap.min.css
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+++open-iconic.eot
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+++open-iconic.otf
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+++open-iconic.svg
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+++open-iconic.ttf
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+++open-iconic.woff
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+i:{dee5d711-5a86-4034-981f-4b75ca22f515}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\blazorapp1\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+++NewFolder
+++ViewModels
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\viewmodels\
+++IOrderDataService.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\contracts\iorderdataservice.cs
+++IEventDataService.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\contracts\ieventdataservice.cs
+++EventDetailViewModel.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\viewmodels\eventdetailviewmodel.cs
+++CategoryViewModel.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\viewmodels\categoryviewmodel.cs
+++RegisterViewModel.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\viewmodels\registerviewmodel.cs
+++CategoryEventsViewModel.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\viewmodels\categoryeventsviewmodel.cs
+++EventListViewModel.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\viewmodels\eventlistviewmodel.cs
+++PagedOrderForMonthViewModel.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\viewmodels\pagedorderformonthviewmodel.cs
+++OrdersForMonthListViewModel.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\viewmodels\ordersformonthlistviewmodel.cs
+++LoginViewModel.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\viewmodels\loginviewmodel.cs
+++EventNestedViewModel.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\viewmodels\eventnestedviewmodel.cs
+++ApiResponse.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\services\base\apiresponse.cs
+++IClient.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\services\base\iclient.cs
+++Client.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\services\base\client.cs
+++BaseDataService.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\services\base\basedataservice.cs
+++AuthenticationService.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\services\authenticationservice.cs
+++CategoryDataService.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\services\categorydataservice.cs
+++EventDataService.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\services\eventdataservice.cs
+++OrderDataService.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\services\orderdataservice.cs
+++Auth
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\auth\
+++CustomAuthenticationStateProvider.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\auth\customauthenticationstateprovider.cs
+++Solución "GloboTicket.TicketManagement" ‎(8 de 8 proyectos)
+++Components
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\components\
+++img
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\img\
+++scripts
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\scripts\
+++debug.log
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\debug.log
+++Pager.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\components\pager.razor
+++PaginatedList.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\components\paginatedlist.cs
+++AddCategory.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\addcategory.razor
+++CategoryOverview.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\categoryoverview.razor
+++EventDetails.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\eventdetails.razor
+++EventOverview.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\eventoverview.razor
+++Home.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\home.razor
+++Login.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\login.razor
+++Register.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\register.razor
+++TicketSales.razor
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\ticketsales.razor
+++Mappings.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\profiles\mappings.cs
+++main.css
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\main.css
+++normalize.css
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\css\normalize.css
+++back-arrow.svg
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\img\back-arrow.svg
+++globoticket.png
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\img\globoticket.png
+++download.js
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\wwwroot\scripts\download.js
+++Pager.razor.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\components\pager.razor.cs
+++AddCategory.razor.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\addcategory.razor.cs
+++CategoryOverview.razor.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\categoryoverview.razor.cs
+++EventDetails.razor.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\eventdetails.razor.cs
+++EventOverview.razor.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\eventoverview.razor.cs
+++Index.razor.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\index.razor.cs
+++Login.razor.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\login.razor.cs
+++Register.razor.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\register.razor.cs
+++TicketSales.razor.cs
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:c:\users\alexj\source\repos\globoticket\globoticket.ticketmanagement\globoticket.ticketmanagement.app\pages\ticketsales.razor.cs
+++NETStandard.Library
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.0)
+++Blazored.LocalStorage (3.0.0)
+++Microsoft.AspNetCore.Components.Authorization (3.1.10)
+++Microsoft.AspNetCore.Components.WebAssembly (3.2.1)
+++Microsoft.AspNetCore.Components.WebAssembly.Build (3.2.1)
+i:{620923df-beab-4840-a5c3-aecac41d1b1d}:>2875
+++Microsoft.AspNetCore.Components.WebAssembly.DevServer (3.2.1)
+++Microsoft.Extensions.Http (3.1.4)
+++Newtonsoft.Json (12.0.3)
+++System.Net.Http.Json (3.2.0)
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++Solución "GloboTicket.TicketManagement" ‎(10 de 10 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:GloboTicket.TicketManagement.sln
+++BlazorApp1
+i:{4e2eb456-2e4c-4068-a8e2-d0018484b8e9}:BlazorApp1
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\ILLink.CodeFixProvider.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\ILLink.RoslynAnalyzer.dll
