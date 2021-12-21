@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dVFoHArP7lZDKypG4LCNUCW4gPFpBZ8bu5RC6qgAzHKBu2bHG8Rm+NCNPBWhfHXpfpjW4V65FNrVi1rG2a1LXw==",
+  "dgSpecHash": "vt7S9iKFfTLDF4/c39TieS0wDc1GFJPyJ/aDDUr5/jA7as9xbcSZPYjy+e+ma7vaWsYsUjGHlGjVwXOFE3k73A==",
   "success": true,
   "projectFilePath": "C:\\Users\\alexj\\source\\repos\\GloboTicket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.API.IntegrationTests\\GloboTicket.TicketManagement.API.IntegrationTests.csproj",
   "expectedPackageFiles": [

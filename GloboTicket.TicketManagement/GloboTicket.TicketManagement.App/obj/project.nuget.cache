@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UYVFLy5Iwb73SRzXlTI66Acu/8aZ9W0ZZuhQZh3xrT6ahM2QcwQWn3am4xedwhWECewlV75HWenuM4+kBD0iBw==",
+  "dgSpecHash": "y/fH84EwZ/CYmCbJwXOMNOlw/EO3n8O/CPc+SS4D7c+a+Ct4W9pM+nfQIP5wS+KDX9hIErGzenuqHno3ZpeIvw==",
   "success": true,
   "projectFilePath": "C:\\Users\\alexj\\source\\repos\\GloboTicket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.App\\GloboTicket.TicketManagement.App.csproj",
   "expectedPackageFiles": [
@@ -44,7 +44,7 @@
     "C:\\Users\\alexj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\alexj\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.0\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.0.nupkg.sha512"
+    "C:\\Users\\alexj\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.1\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -41,6 +41,7 @@ app.UseSwaggerUI(c =>
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "GloboTicket Ticket Management API");
 });
 
+app.UseCustomExceptionHandler();
 app.UseHttpsRedirection();
 
 app.UseRouting();

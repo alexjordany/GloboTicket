@@ -20,3 +20,5 @@ global using Microsoft.OpenApi.Models;
 global using Swashbuckle.AspNetCore.SwaggerGen;
 global using GloboTicket.TicketManagement.Api.Utility;
 global using GloboTicket.TicketManagement.Application.Features.Orders.Queries.GetOrdersForMonth;
+global using GloboTicket.TicketManagement.Api.Middleware;
+

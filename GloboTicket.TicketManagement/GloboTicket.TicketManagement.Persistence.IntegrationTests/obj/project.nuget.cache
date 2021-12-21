@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bZRmdsgbjEK6nYwQiXRW1KuW9SDMik74W2X99e1bZKxuLxrbHJjw3mM4jpKeAjqFVTkF6Tkc56w9zTlvuWKbPQ==",
+  "dgSpecHash": "uWZ50H4KZnbtyxJ7mASaQG6CJLBCPj1X7Y77SzzoUMpb0aeJAzHTqbkBTXFgRzfHeueIjaj3xkA0Hh+8Czo9oA==",
   "success": true,
   "projectFilePath": "C:\\Users\\alexj\\source\\repos\\GloboTicket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence.IntegrationTests\\GloboTicket.TicketManagement.Persistence.IntegrationTests.csproj",
   "expectedPackageFiles": [
