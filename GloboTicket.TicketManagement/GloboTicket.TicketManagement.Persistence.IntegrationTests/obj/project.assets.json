@@ -3156,7 +3156,8 @@
           "FluentValidation": "10.3.5",
           "FluentValidation.DependencyInjectionExtensions": "10.3.5",
           "GloboTicket.TicketManagement.Domain": "1.0.0",
-          "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0"
+          "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0"
         },
         "compile": {
           "bin/placeholder/GloboTicket.TicketManagement.Application.dll": {}
