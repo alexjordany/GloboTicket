@@ -1,6 +1,0 @@
-C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.App\obj\Debug\net6.0\GloboTicket.TicketManagement.App.csproj.AssemblyReference.cache
-C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.App\obj\Debug\net6.0\GloboTicket.TicketManagement.App.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.App\obj\Debug\net6.0\GloboTicket.TicketManagement.App.AssemblyInfoInputs.cache
-C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.App\obj\Debug\net6.0\GloboTicket.TicketManagement.App.AssemblyInfo.cs
-C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.App\obj\Debug\net6.0\GloboTicket.TicketManagement.App.csproj.CoreCompileInputs.cache
-C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.App\obj\Debug\net6.0\GloboTicket.TicketManagement.App.MvcApplicationPartsAssemblyInfo.cache

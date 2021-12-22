@@ -4,7 +4,7 @@ public class ValidationException : ApplicationException
 {
     public List<string> ValidationErrors { get; set; }
 
-    public ValidationException(ValidationResult validationResult)
+    public ValidationException(FluentValidation.Results.ValidationResult validationResult)
     {
         ValidationErrors = new List<string>();
 
