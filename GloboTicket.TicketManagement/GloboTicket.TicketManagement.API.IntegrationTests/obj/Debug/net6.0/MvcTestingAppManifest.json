@@ -1,0 +1,8 @@
+{
+  "GloboTicket.TicketManagement.Api": "C:\\Users\\alexj\\source\\repos\\GloboTicket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Api",
+  "GloboTicket.TicketManagement.Application": "C:\\Users\\alexj\\source\\repos\\GloboTicket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application",
+  "GloboTicket.TicketManagement.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\alexj\\source\\repos\\GloboTicket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain",
+  "GloboTicket.TicketManagement.Identity": "C:\\Users\\alexj\\source\\repos\\GloboTicket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Identity",
+  "GloboTicket.TicketManagement.Infrastructure": "C:\\Users\\alexj\\source\\repos\\GloboTicket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Infrastructure",
+  "GloboTicket.TicketManagement.Persistence": "C:\\Users\\alexj\\source\\repos\\GloboTicket\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence"
+}

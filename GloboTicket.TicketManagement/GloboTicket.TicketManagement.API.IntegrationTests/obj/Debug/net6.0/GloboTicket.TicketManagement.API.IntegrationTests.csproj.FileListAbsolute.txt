@@ -1,0 +1,7 @@
+C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.IntegrationTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.csproj.AssemblyReference.cache
+C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.AssemblyInfo.cs
+C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.IntegrationTests\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.csproj.CoreCompileInputs.cache

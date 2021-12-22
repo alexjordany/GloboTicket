@@ -18,3 +18,6 @@ global using GloboTicket.TicketManagement.Application.Contracts.Infrastructure;
 global using GloboTicket.TicketManagement.Application.Features.Events.Queries.GetEventsExport;
 global using GloboTicket.TicketManagement.Application.Exceptions;
 global using Microsoft.Extensions.Logging;
+global using GloboTicket.TicketManagement.Application.Models.Authentication;
+global using System.ComponentModel.DataAnnotations;
+

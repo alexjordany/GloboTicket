@@ -19,6 +19,7 @@ public class CategoryController : ControllerBase
         return Ok(dtos);
     }
 
+    [Authorize]
     [HttpGet("allwithevents", Name = "GetCategoriesWithEvents")]
     [ProducesDefaultResponseType]
     [ProducesResponseType(StatusCodes.Status200OK)]

@@ -1,0 +1,6 @@
+C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application.UnitTest\obj\Debug\net6.0\GloboTicket.TicketManagement.Application.UnitTest.csproj.AssemblyReference.cache
+C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application.UnitTest\obj\Debug\net6.0\GloboTicket.TicketManagement.Application.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application.UnitTest\obj\Debug\net6.0\GloboTicket.TicketManagement.Application.UnitTest.AssemblyInfoInputs.cache
+C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application.UnitTest\obj\Debug\net6.0\GloboTicket.TicketManagement.Application.UnitTest.AssemblyInfo.cs
+C:\Users\alexj\source\repos\GloboTicket\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application.UnitTest\obj\Debug\net6.0\GloboTicket.TicketManagement.Application.UnitTest.csproj.CoreCompileInputs.cache

@@ -21,4 +21,7 @@ global using Swashbuckle.AspNetCore.SwaggerGen;
 global using GloboTicket.TicketManagement.Api.Utility;
 global using GloboTicket.TicketManagement.Application.Features.Orders.Queries.GetOrdersForMonth;
 global using GloboTicket.TicketManagement.Api.Middleware;
-
+global using GloboTicket.TicketManagement.Application.Contracts.Identity;
+global using GloboTicket.TicketManagement.Identity;
+global using Serilog;
+global using Microsoft.AspNetCore.Authorization;
