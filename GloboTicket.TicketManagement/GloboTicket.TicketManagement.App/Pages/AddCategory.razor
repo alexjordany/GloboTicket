@@ -1,0 +1,56 @@
+﻿@page "/addcategory"
+
+<h3 class="mb-5">New category</h3>
+
+@Message
+
+<EditForm Model="@CategoryViewModel" OnValidSubmit="@HandleValidSubmit">
+
+    <DataAnnotationsValidator />
+    <ValidationSummary></ValidationSummary>
+
+    <div class="form-group row">
+        <label for="name" class="col-sm-3">Category name: </label>
+        <InputText id="name" class="form-control col-sm-5" @bind-Value="@CategoryViewModel.Name" placeholder="Enter category name"></InputText>
+        <ValidationMessage class="offset-sm-3 col-sm-5" For="@(() => CategoryViewModel.Name)" />
+    </div>
+
+    <button type="submit" class="submit-button mt-3">Save category</button>
+</EditForm>
+
+
+@code {
+    [Inject]
+    public ICategoryDataService CategoryDataService { get; set; }
+
+    [Inject]
+    public NavigationManager NavigationManager { get; set; }
+
+    public CategoryViewModel CategoryViewModel { get; set; }
+    public string Message { get; set; }
+
+    protected override void OnInitialized()
+    {
+        CategoryViewModel = new CategoryViewModel();
+    }
+
+    protected async Task HandleValidSubmit()
+    {
+        var response = await CategoryDataService.CreateCategory(CategoryViewModel);
+        HandleResponse(response);
+    }
+
+    private void HandleResponse(ApiResponse<CategoryDto> response)
+    {
+        if (response.Success)
+        {
+            Message = "Category added";
+        }
+        else
+        {
+            Message = response.Message;
+            if (!string.IsNullOrEmpty(response.ValidationErrors))
+                Message += response.ValidationErrors;
+        }
+    }
+}

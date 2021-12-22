@@ -1,0 +1,16 @@
+﻿global using GloboTicket.TicketManagement.App;
+global using Microsoft.AspNetCore.Components.Web;
+global using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+global using System.ComponentModel.DataAnnotations;
+global using GloboTicket.TicketManagement.App.Services;
+global using GloboTicket.TicketManagement.App.Services.Base;
+global using GloboTicket.TicketManagement.App.ViewModels;
+global using Microsoft.AspNetCore.Components.Authorization;
+global using Blazored.LocalStorage;
+global using System.Security.Claims;
+global using System.Text.Json;
+global using GloboTicket.TicketManagement.App.Contracts;
+global using GloboTicket.TicketManagement.App.Auth;
+global using System.Net.Http.Headers;
+global using AutoMapper;
+global using Microsoft.AspNetCore.Components;

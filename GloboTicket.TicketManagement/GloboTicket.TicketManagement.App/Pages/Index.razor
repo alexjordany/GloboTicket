@@ -1,0 +1,50 @@
+﻿@page "/"
+
+<h1 class="page-title">Welcome to the GloboTicket Ticket Management System!</h1>
+<br />
+<h4>Using this application, you have access to all functionalities of GloboTicket.</h4>
+
+<br />
+
+<AuthorizeView>
+    <Authorized>
+        <button @onclick="Logout">Logout</button>
+    </Authorized>
+    <NotAuthorized>
+        <button @onclick="NavigateToLogin">Click here to log in</button>
+        <br />
+        <button @onclick="NavigateToRegister">Click here to register</button>
+    </NotAuthorized>
+</AuthorizeView>
+
+
+@code{
+    [Inject]
+    private AuthenticationStateProvider AuthenticationStateProvider { get; set; }
+
+    [Inject]
+    public NavigationManager NavigationManager { get; set; }
+
+    [Inject]
+    public IAuthenticationService AuthenticationService { get; set; }
+
+    protected async override Task OnInitializedAsync()
+    {
+        await ((CustomAuthenticationStateProvider)AuthenticationStateProvider).GetAuthenticationStateAsync();
+    }
+
+    protected void NavigateToLogin()
+    {
+        NavigationManager.NavigateTo("login");
+    }
+
+    protected void NavigateToRegister()
+    {
+        NavigationManager.NavigateTo("register");
+    }
+
+    protected async void Logout()
+    {
+        await AuthenticationService.Logout();
+    }
+}

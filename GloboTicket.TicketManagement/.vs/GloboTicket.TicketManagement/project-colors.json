@@ -80,7 +80,12 @@
       "ProjectGuid": "359964b9-bdd7-4385-9137-2c587a937887",
       "DisplayName": "GloboTicket.TicketManagement.App",
       "ColorIndex": 14
+    },
+    "f3aab8f4-f219-4635-89fe-0970e85578ef": {
+      "ProjectGuid": "f3aab8f4-f219-4635-89fe-0970e85578ef",
+      "DisplayName": "GloboTicket.TicketManagement.App",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 0
 }
